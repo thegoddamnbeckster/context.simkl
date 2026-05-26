@@ -1,6 +1,6 @@
 # SIMKL Context Menu
 
-[![Latest Release](https://img.shields.io/github/v/release/thegoddamnbeckster/context.simkl?label=version)](https://github.com/thegoddamnbeckster/context.simkl/releases/latest) [![Scrobbler](https://img.shields.io/github/v/release/thegoddamnbeckster/SIMKLScrobbler?label=scrobbler)](https://github.com/thegoddamnbeckster/SIMKLScrobbler/releases/latest)
+[![context.simkl](https://img.shields.io/github/v/release/thegoddamnbeckster/context.simkl?label=context.simkl)](https://github.com/thegoddamnbeckster/context.simkl/releases/latest) [![SIMKL Scrobbler](https://img.shields.io/github/v/release/thegoddamnbeckster/SIMKLScrobbler?label=SIMKL+Scrobbler)](https://github.com/thegoddamnbeckster/SIMKLScrobbler/releases/latest)
 
 **Type:** Kodi Context Menu Addon
 **Requires:** script.simkl.scrobbler v7.8.4+

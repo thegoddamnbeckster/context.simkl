@@ -37,10 +37,11 @@ Requires `action=sync` per-item to be implemented in `script.simkl.scrobbler`.
 
 ## Installation
 
-1. Install main addon: `script.simkl.scrobbler` v7.8.4 or higher
-2. Install this context addon: `context.simkl`
-3. Restart Kodi
-4. Right-click any media item -> "Rate on SIMKL" appears
+1. Install main addon: [script.simkl.scrobbler](https://github.com/thegoddamnbeckster/SIMKLScrobbler/releases/latest) v7.8.4 or higher
+2. Download `context.simkl-vX.X.X.zip` from the [Releases](https://github.com/thegoddamnbeckster/context.simkl/releases/latest) page
+3. In Kodi, go to **Add-ons > Install from zip file**, navigate to the downloaded ZIP, and install
+4. Restart Kodi
+5. Right-click any media item → **Rate on SIMKL** appears
 
 ## How It Works
 
@@ -125,4 +126,5 @@ All operations logged to kodi.log with version prefix:
 
 **Created by:** Claude.ai with assistance from Michael Beck
 **License:** MIT
-**Project:** SIMKL Scrobbler for Kodi
+
+Part of the SIMKL for Kodi ecosystem — see also [SIMKL Scrobbler](https://github.com/thegoddamnbeckster/SIMKLScrobbler) (the main service addon).
